@@ -1,6 +1,6 @@
 # -------- WIP -------- 
 # Persons of Interest
-A simple API for finding persons of interest as well as known associates
+A simple application for finding persons of interest as well as known associates
 
 ## 1) Setup / Installation
 Create venv:
