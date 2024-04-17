@@ -33,6 +33,7 @@ To run the command line interface:
 Directly view and navigate the data graph.
 
 (This project relies heavily on data from www.newscatcherapi.come).
+
 (Their assistance in putting this project together has been invaluable).
 
 # -------- WIP -------- 
